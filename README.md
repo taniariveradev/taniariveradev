@@ -32,8 +32,15 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
-<p align="center">
+👽 **¡Contact me!** 🛸 ...
+
+
+<br>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taniariveradev)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniariveradev)  
+</br>
 
 <p align="center">
   <br/>
@@ -41,9 +48,7 @@
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
-👾 **¡Contáctame!** 🛸
-- 📧 [Email](mailto:tu@email.com)
-- 💼 [LinkedIn](enlace)
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
 
 ---
 
