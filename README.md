@@ -1,15 +1,7 @@
 ---
+
 <h1 align="center">Hi 👋, I'm Tania Rivera 👩‍💻 💻 📲 👽 </h1>
-<h3 align="center">Android Developer, from México</h3> <𝚌𝚘𝚍𝚎𝚛𝚜/>!
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=taniariveradev.taniariveradev)
-![](https://komarev.com/ghpvc/?username=taniariveradev&color=0366d6)
-
-
+<h3 align="center">Android Developer, from México</h3> 
 
 ---
 
@@ -44,6 +36,8 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=taniariveradev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=taniariveradev&theme=dark&no-bg=true&no-frame=true&title=Stars,Commit,Issues,PullRequest)
+
 ---
 
 👽 **¡Contact me!** 🛸 ...
@@ -55,6 +49,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniariveradev)  
 </br>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=taniariveradev.taniariveradev&color=32CD32)
+![](https://komarev.com/ghpvc/?username=taniariveradev&color=32CD32)
+
 <p align="center">
   <br/>
    <br/>
@@ -63,10 +60,14 @@
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
 
+<𝚌𝚘𝚍𝚎𝚛𝚜/>!
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+</p>
+
+
 ---
-
-
-
 
 
 
