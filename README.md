@@ -44,9 +44,9 @@
 
 <br>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taniariveradev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tania_Rivera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taniariveradev)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniariveradev)  
+[![GitHub](https://img.shields.io/badge/GitHub-taniariveradev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniariveradev)
 </br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=taniariveradev.taniariveradev&color=32CD32)
